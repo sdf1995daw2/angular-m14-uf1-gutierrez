@@ -1,0 +1,2 @@
+[0117/184352.221:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[0117/184352.272:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\eugen\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\b05f0001-97eb-4ac0-a222-f7c7f9ddb044: El sistema no puede encontrar la ruta especificada. (0x3)

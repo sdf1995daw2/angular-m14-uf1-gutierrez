@@ -1,0 +1,15 @@
+<html>
+<body class="dia">
+
+<h1 class="as" mat-dialog-title>PREVIEW: pista numero {{data.id}} </h1>
+<button class="cerrar" (click)="onNoClick()">cerrar</button>
+<div mat-dialog-content>
+  <h1 class="as">nombre: {{data.pista}}</h1>
+    <p class="der"><img class="foto2" src="../assets/{{data.nombre}}.jpg"></p>
+   <div class="iz">
+        <p class="as">artista: {{data.artista}}</p>
+        <p class="as">albun: {{data.albun}}</p>
+   </div>
+</div>
+</body>
+</html>
